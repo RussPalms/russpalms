@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RussPalms">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Sokutions%20Architect;Computer%20Engineer;Information%20Technology%20Administrator;Database%20Specialist;Over%20Five-Hundred+%20Open-Source%20Repositories;Constantly%20Exploring%20&New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Solutions%20Architect;Computer%20Engineer;Information%20Technology%20Admin;Database%20Specialist;Five-Hundred-Plus%20Open-Source%20Repositories;Constantly%20Exploring%20&Bleeding%20Edge&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
