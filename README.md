@@ -95,7 +95,7 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-  <a href="https://wakatime.com/@RussPalms">
+  <a href="https://wakatime.com/@rpalm">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=russpalms&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@russpalms's wakatime stats" />
   </a>
   <a href="https://github.com/RussPalms?tab=achievements">
