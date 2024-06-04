@@ -32,11 +32,11 @@ With over 500+ forked repositories, I've curated a diverse library of "future in
 
 I believe in the power of collaboration and the value of sharing knowledge. By contributing to open-source projects and making my own code available, I aim to give back to the community that has helped me grow as a developer.
 
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
+- 💡 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
+- 🔀 Proficient in front-end technologies like Typescript with React/Next, Angular, and Vue.js, as well as back-end technologies like Node.js, Python/Django/Flask, and PHP
+- ☁️ Experienced in DevOps, CI/CD, and Cloud infrastructures including AWS, Azure, GCP, Linode, Vultr, Digital Ocean, and Kubernetes.
+- 🌐 Developed AI Applications using API integrated with both commercial models such as GPT-4o and Claude Opus as well as open source models like Llama 3 and Groq.
+- 🤓 Comprable knowledge about deep and reinforcement learning, recommendation systems, convolutional neural networks.
 
 ---
 
