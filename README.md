@@ -96,7 +96,7 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
 
 <p align="center">
   <a href="https://wakatime.com/@rpalm">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=russpalms&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@russpalms's wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rpalm&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@rpalm's wakatime stats" />
   </a>
   <a href="https://github.com/RussPalms?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=Russell-Palma&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@russpalms's trophy stats" />
