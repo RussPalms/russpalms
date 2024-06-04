@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hi%20there,%20I'm%20Russell%20Palma%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Enthusiast%20and%20Code%20Archivist&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Yo!,%20It's%20Russell%20Palma%20🤙🏾&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Enthusiast%20and%20Code%20Archivist&descAlignY=51&descAlign=62)
 
 </div>
 
@@ -131,7 +131,7 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
 
 <div align="center">
 
-## 📫 Let's Connect! 📫
+## 📫 Hit Me Up! 📫
 
 </div>
 
