@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/RussPalms">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;500+%20Open-Source%20Repositories;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Sokutions%20Architect;Computer%20Engineer;Information%20Technology%20Administrator;Database%20Specialist;Over%20Five-Hundred+%20Open-Source%20Repositories;Constantly%20Exploring%20&New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -35,8 +35,9 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
 - 💡 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications
 - 🔀 Proficient in front-end technologies like Typescript with React/Next, Angular, and Vue.js, as well as back-end technologies like Node.js, Python/Django/Flask, and PHP
 - ☁️ Experienced in DevOps, CI/CD, and Cloud infrastructures including AWS, Azure, GCP, Linode, Vultr, Digital Ocean, and Kubernetes.
-- 🌐 Developed AI Applications using API integrated with both commercial models such as GPT-4o and Claude Opus as well as open source models like Llama 3 and Groq.
+- 🌐 Developed AI Applications using APIs integrated with both commercial models such as GPT-4o and Claude 3 Opus as well as open source models like Llama 3 and Groq.
 - 🤓 Comprable knowledge about deep and reinforcement learning, recommendation systems, convolutional neural networks.
+- 🔗 Deployed multiple smart contracts onto the Ethereum blockchain and currently studying layer zero chains for bridged integrations.
 
 ---
 
