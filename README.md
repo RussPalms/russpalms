@@ -108,7 +108,7 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
 </a>
 
 <p align="center">
-  <a href="https://wakatime.com/@RussPalms">
+  <a href="https://wakatime.com/@rpalm">
     <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime" />
   </a>
   <a href="https://github.com/RussPalms?tab=following">
