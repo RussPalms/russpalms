@@ -149,6 +149,9 @@ I believe in the power of collaboration and the value of sharing knowledge. By c
   <a href="https://open.spotify.com/user/22klfu4risp3uw5sb7saxsbxa?si=3f748b5311a64201" target="_blank">
     <img src="https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+<a href="https://on.soundcloud.com/hdVTw" target="_blank">
+    <img src="https://img.shields.io/badge/-Soundcloud-FF4500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
   <a href="https://labs.openai.com/sc/iIGJa6lxqAL6fTuQvI70pFif" target="_blank">
     <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   </a>
